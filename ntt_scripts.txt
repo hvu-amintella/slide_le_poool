@@ -1,0 +1,302 @@
+================================================================
+AMINTELLA — NOTES DU PRÉSENTATEUR / GHI CHÚ THUYẾT TRÌNH
+Fichier : ntt_scripts.txt
+Slides : 5 — « L'ambition »  ·  6 — « Ce que nous cherchons »
+Mise à jour : 22/09/2026
+================================================================
+
+Nguyên tắc: hai slide này chỉ giữ hình và vài chữ. Toàn bộ chi tiết nằm
+ở đây, do người nói cầm. Đọc tự nhiên, đừng đọc nguyên văn từng chữ.
+
+Ký hiệu trong file:
+  [ ]              chỉ dẫn sân khấu, không đọc
+  >> VN            ghi chú tiếng Việt cho riêng mình
+  /!\ CẦN BỔ SUNG  chỗ chưa có số liệu, phải tự quyết trước buổi gặp
+
+
+################################################################
+PARTIE 1 — SLIDE 5 : « Outiller chaque acteur pour faire
+progresser l'élève »
+################################################################
+
+----------------------------------------------------------------
+1.1 SCRIPT — SLIDE 5   (khoảng 85 giây)
+----------------------------------------------------------------
+
+[Mở đầu — chỉ tay vào vòng tròn giữa]
+
+  « Voilà où nous allons. Amintella n'est pas un outil isolé pour
+    l'enseignant : c'est un écosystème, et au centre, il y a l'élève. »
+
+[Trung tâm — lộ trình cá nhân hoá, nói chậm, đây là câu quan trọng nhất]
+
+  « Ce que nous visons, c'est un parcours personnalisé pour chaque
+    élève. Personnalisé non pas à partir d'un test en ligne, mais à
+    partir de ses propres copies : celles qu'il a réellement faites en
+    classe, et que son enseignant a validées. »
+
+  >> VN: đây là điểm khác biệt lớn nhất so với mọi công cụ AI khác.
+     Dừng một nhịp sau câu này.
+
+[Giáo viên và ba công cụ]
+
+  « Chaque acteur reçoit ses outils. L'enseignant d'abord : la
+    correction de copies et la composition d'examens sont déjà
+    disponibles ; les cours interactifs arrivent en 2027. Et la liste
+    reste ouverte : d'autres outils suivront. »
+
+[Phụ huynh và nhà trường — nói thẳng là chưa có]
+
+  « Le parent suivra les progrès de son enfant. L'établissement suivra
+    les résultats par classe. Ces deux briques sont à venir, et je le
+    dis clairement : elles ne sont pas encore construites. »
+
+  >> VN: chính vì nói thẳng "chưa có" ở đây mà phần đã có ở slide 3 mới
+     đáng tin. Đừng bỏ câu này.
+
+[Các bên trao đổi với nhau — chỉ vào các đường nét đứt]
+
+  « Et ces acteurs ne parlent pas seulement à l'élève : ils échangent
+    entre eux. L'enseignant avec les parents, l'établissement avec ses
+    enseignants. C'est ce qui en fait un écosystème, et non trois
+    outils séparés. »
+
+[Thứ tự vào]
+
+  « L'ordre d'arrivée compte : l'enseignant entre en premier, parce
+    que c'est lui qui produit la donnée fiable. Viennent ensuite ses
+    élèves, les parents, puis l'établissement. »
+
+[Dòng thời gian — chỉ tay, đừng đọc như đọc danh sách]
+
+  « En bas, notre calendrier. Aujourd'hui, le MVP tourne sur
+    navigateur, iOS et Android. Lancement public en janvier 2027. Les
+    cours interactifs au second semestre 2027. Et en 2028, nos propres
+    modèles d'IA. »
+
+  >> VN: nhấn mốc « janvier 2027 », đó là mốc ban giám khảo sẽ nhớ và
+     sẽ hỏi lại. Ba mốc kia nói lướt.
+
+[Chuyển sang slide 6]
+
+  « Pour tenir ce calendrier, il nous manque trois choses. C'est mon
+    dernier point. »
+
+
+----------------------------------------------------------------
+1.2 CÂU HỎI LIÊN QUAN ĐẾN SLIDE 5
+----------------------------------------------------------------
+
+Q (A7) « Et les données d'élèves mineurs ? »
+
+  « L'évaluation des élèves relève des systèmes à haut risque au titre
+    du règlement européen sur l'IA. C'est pourquoi le contrôle humain
+    est au cœur du produit : l'enseignant valide chaque note, aucune
+    note automatique ne compte sans son accord. Les données sont
+    traitées dans le respect du RGPD. »
+
+  /!\ CẦN BỔ SUNG: ai được xem cái gì, dữ liệu đặt ở đâu, giữ bao lâu.
+      Slide 5 vẽ phụ huynh và nhà trường cùng nhìn vào kết quả của học
+      sinh, nên câu hỏi "ai thấy được gì" gần như chắc chắn đi kèm.
+
+  >> VN: nếu bị hỏi sâu, đừng chế. Nói "les règles d'accès seront
+     définies avec les établissements pilotes" rồi chuyển tiếp.
+
+
+Q (A7) « Pourquoi un enseignant vous adopterait-il ? »
+
+  « Le temps de correction est le premier irritant du métier. Notre
+    outil s'utilise sur ses copies papier, sans qu'il change sa façon
+    de travailler. C'est pour cela que l'enseignant entre en premier
+    dans l'écosystème. »
+
+
+Q « Pourquoi construire pour le parent et l'établissement si rien
+    n'existe encore ? »
+
+  « Parce que la donnée est la même. Une copie corrigée et validée par
+    l'enseignant sert à l'élève pour progresser, au parent pour
+    accompagner, et à l'établissement pour piloter. Nous ne
+    construisons pas trois produits, nous ouvrons progressivement le
+    même socle à trois usages. »
+
+  >> VN: câu này không có trong phụ lục nhưng rất dễ bị hỏi khi nhìn
+     hình. Học thuộc ý, không cần thuộc chữ.
+
+
+Q « Quelles preuves commerciales dans les 12 mois ? »   →  xem phần 2.2
+Q « Qu'est-ce qui est réellement innovant ? »           →  xem phần 2.2
+
+
+################################################################
+PARTIE 2 — SLIDE 6 : « Ce que nous cherchons »
+################################################################
+
+----------------------------------------------------------------
+2.1 SCRIPT — SLIDE 6   (khoảng 70 giây)
+----------------------------------------------------------------
+
+[Mở đầu — nhìn cả phòng, nói chậm]
+
+  « Nous sommes au stade du MVP. Il nous manque trois appuis pour
+    passer du produit aux premiers établissements. »
+
+[Thẻ 1 — Capital]
+
+  « Le premier, c'est un premier financement. Il sert à trois choses :
+    les salaires de l'équipe, la puissance de calcul, et la recherche
+    et développement de nos propres modèles d'IA. L'horizon, ce sont
+    les premiers pilotes de janvier 2027.
+    Nous le cherchons auprès d'investisseurs d'amorçage, et du côté des
+    aides publiques : Bourse French Tech, statut Jeune Entreprise
+    Innovante, crédit d'impôt recherche. »
+
+[Thẻ 2 — Technique]
+
+  « Le deuxième, c'est l'accès au calcul et à la recherche. Très
+    concrètement : un partenaire qui nous fournit des GPU pour entraîner
+    et faire tourner nos modèles, et un laboratoire avec qui travailler
+    sur la lecture de l'écriture manuscrite.
+    Nous cherchons du côté des fournisseurs de calcul et de cloud, des
+    laboratoires de recherche et des entreprises d'IA. »
+
+  >> VN: đây là chỗ nói "chúng tôi không chỉ gọi mô hình của người
+     khác, chúng tôi tự tinh chỉnh mô hình của mình" — nói ngắn thôi,
+     đừng sa đà vào kỹ thuật.
+
+[Thẻ 3 — Marché]
+
+  « Le troisième, c'est l'entrée dans les établissements. Nous avons
+    besoin des premiers établissements pilotes, puis de valider deux
+    choses que nous ne connaissons pas encore : le prix, et qui signe.
+    Nous cherchons des réseaux d'écoles, des éditeurs et des acteurs du
+    soutien scolaire. »
+
+[Dải dưới — Le Poool. Nhìn thẳng ban giám khảo]
+
+  « Et c'est exactement là que le Poool peut nous débloquer : les mises
+    en relation, l'accompagnement sur le modèle économique, et l'accès
+    aux dispositifs bretons et aux financements non dilutifs. »
+
+[Kết]
+
+  « Si vous vous reconnaissez dans l'un de ces trois rôles, nous sommes
+    preneurs d'en parler. »
+
+  >> VN: câu cuối nói chậm, dừng một nhịp rồi mới ngưng. Đừng vội bấm
+     sang slide phụ lục.
+
+
+----------------------------------------------------------------
+2.2 CÂU HỎI LIÊN QUAN ĐẾN SLIDE 6
+   (lọc từ phụ lục A6 « jury d'incubation » và A7 « produit et marché »)
+----------------------------------------------------------------
+
+--- CAPITAL ---------------------------------------------------
+
+Q (A6) « Quels financements non dilutifs visez-vous ? »
+
+  « Bourse French Tech, crédit d'impôt recherche, et le statut Jeune
+    Entreprise Innovante. Côté région, les dispositifs bretons :
+    Emergys, PHAR Bretagne, et les aides à l'expérimentation — ce sont
+    justement ceux auxquels une incubation donne accès. »
+
+  >> VN: câu này trả lời trọn vẹn được, không cần bổ sung gì.
+
+
+Q (A6) « Qui est à temps plein, et à partir de quand ? »
+
+  « Nous sommes aujourd'hui tous les trois salariés, et nous
+    développons Amintella en dehors de nos heures de travail.
+    [NOM] passe à temps plein en [MOIS/ANNÉE], dès que [CONDITION].
+    D'ici là, le projet est financé par nos apports personnels. »
+
+  /!\ CẦN BỔ SUNG: ai nghỉ việc trước, tháng nào, với điều kiện gì
+      (gọi được vốn? đủ số trường thí điểm?). Ban giám khảo gần như
+      chắc chắn hỏi câu này; không trả lời được là mất điểm nặng nhất.
+
+
+Q (A6) « La société est-elle créée ? Comment est réparti le capital ? »
+
+  /!\ CẦN BỔ SUNG: đã lập công ty chưa, loại hình gì (SAS?), chia vốn
+      giữa ba người thế nào, cố vấn khoa học đứng ở đâu (có cổ phần?
+      chỉ là cố vấn?). Phụ lục A6 ghi rõ mục này "à préciser".
+
+
+Q (A6) « Propriété intellectuelle vis-à-vis de vos employeurs ? »
+
+  « Le développement se fait hors temps de travail et sur nos moyens
+    propres. Nous sécurisons ce point par écrit avant toute levée. »
+
+  >> VN: nếu họ hỏi sâu hơn, đừng hứa chắc; nói đúng như trên là đủ.
+
+
+--- TECHNIQUE -------------------------------------------------
+
+Q (A7) « Quelle précision sur l'écriture manuscrite ? »
+
+  « Elle sera mesurée pendant les pilotes. Le point important est que
+    l'enseignant valide chaque note : une erreur de l'IA ne devient
+    jamais une note fausse. C'est aussi pour progresser sur ce point
+    précis que nous cherchons un laboratoire partenaire. »
+
+
+Q (A7) « Combien coûte l'IA par copie ? »
+
+  « Le coût de calcul par copie est à mesurer en pilote. C'est lui qui
+    décide de la marge et du prix, et c'est une des raisons pour
+    lesquelles nous cherchons un partenaire sur la puissance de calcul. »
+
+
+Q (A6) « Qu'est-ce qui est réellement innovant ? »
+
+  « Lire l'écriture manuscrite et le raisonnement, puis ajuster nos
+    propres modèles sur les copies validées par les enseignants : c'est
+    une boucle que les outils génériques n'ont pas. »
+
+  >> VN: dùng để giải thích vì sao cần đối tác khoa học, chứ không phải
+     chỉ cần mua GPU.
+
+
+--- MARCHÉ ----------------------------------------------------
+
+Q (A6) « Quelles preuves commerciales dans les 12 mois ? »
+
+  « Des pilotes en établissement dès janvier 2027, puis les premières
+    licences payantes. Notre objectif à douze mois : [N] établissements
+    et [N] classes. »
+
+  /!\ CẦN BỔ SUNG: hai con số trong ngoặc. Phụ lục A6 ghi "chiffrer
+      l'objectif". Không cần chính xác, cần bảo vệ được.
+
+
+Q (A6) « Quel chiffre d'affaires visé à 12 mois ? »
+
+  /!\ CẦN BỔ SUNG: phải tính trước buổi gặp, dù chỉ là khoảng. Lấy giả
+      thiết giá bán ở phụ lục A5 nhân với số lớp / số trường ở câu trên.
+      Nếu chưa chắc, nói rõ đây là giả thiết sẽ được pilot kiểm chứng —
+      đừng né câu hỏi.
+
+
+--- LE POOOL / IMPLANTATION -----------------------------------
+
+Q (A6) « Pourquoi Rennes, et allez-vous vous implanter sur le
+         territoire ? »
+
+  « Je travaille en Bretagne, à Lannion, chez Nokia, depuis sept ans.
+    L'équipe est déjà en France et le projet est ancré ici.
+    [SIÈGE / PRÉSENCE SUR PLACE / CALENDRIER]. »
+
+  /!\ CẦN BỔ SUNG: đặt trụ sở ở đâu, có mặt ở Rennes bao nhiêu lâu mỗi
+      tháng, và mốc thời gian. Chương trình của Poool dành cho dự án đặt
+      chân ở Ille-et-Vilaine, nên đây là câu chặn.
+
+  >> VN: Lannion là lợi thế thật, ban giám khảo Rennes biết rõ đó là
+     trung tâm công nghệ của Bretagne. Nói sớm, đừng đợi bị hỏi.
+
+
+================================================================
+CÁC CÂU TRONG PHỤ LỤC KHÔNG THUỘC HAI SLIDE NÀY
+  « Pourquoi pas simplement ChatGPT ? »   -> slide 3 + phụ lục A2
+  « Qui sont vos concurrents ? »          -> phụ lục A2
+================================================================
